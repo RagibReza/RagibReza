@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RagibReza
 - 👀 I’m interested in full stale web developing.
 - 🌱 I’m currently learning PHP and MySQL
-- 💞️ I’m looking to collaborate on Githun
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me follow me on Github 
 
 <!---
